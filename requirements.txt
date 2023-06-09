@@ -1,0 +1,5 @@
+tensorflow == 2.10
+jupyter notebook
+Numpy
+matplotlib
+keras
