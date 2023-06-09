@@ -13,7 +13,7 @@ This repository contains an implementation of Variational Autoencoders (VAEs), a
 - [Usage](#usage)
 - [Examples](#examples)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction to Variational Autoencoders
 
