@@ -83,3 +83,5 @@ The `variational auto encoder.ipynb` notebook in this repository provides exampl
 Contributions to this repository are always welcome. If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
 # Cheers
+
+P.S. - If you face any error regarding the output try to run model again on google colab
